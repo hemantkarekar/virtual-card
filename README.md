@@ -7,18 +7,41 @@ Some of the key features you can have after registering to **VirtualCard**:
 - You can share this card unlimited times without extra cost.
 - You can update information from the panel and all the shared users can see the updated details.
 
-## Launching Your First Virtual Card
+## :rocket: Launching Your First Virtual Card - :clipboard: Steps to register yourself
 
-**Register Yourself**
+The following are some basic steps to register yourself. Some more are the variations mentioned below.
 
-**Add Basic and Contact Details**
+Open Web App. Go to register page.
 
-**Set Profile Photo**
+**:small_blue_diamond: Add Basic and Contact Details**
 
-**Set Cover Photo**
+  Add your basic details which includes- 
+  - Your Name
+  - Profession
+  - Company Name & Address in short.
+  
+  And your contact details which includes-
+  - Contact Number
+  - Email ID
+  - Company Contact Number
+  - Company Email ID
 
-**Generate your first _VirtualCard_**
+**:small_blue_diamond: Set Profile Photo**
+
+**:small_blue_diamond: Set Cover Photo**
+
+**:small_blue_diamond: Generate your first _VirtualCard_**
+
+  After putting all your details, you can press on Register button. By doing so your **VirtualCard** will be generated and you will be redirected to the share options of the application.
 
 ## Advaced Features of Virtual Card
 
-**Add Social Media Handles**
+**:small_blue_diamond: Add Social Media Handles**
+
+## :closed_lock_with_key: Locked PRO Features of VirtualCard
+
+**:small_blue_diamond: Add Social Media Handles**
+
+## :warning: Copyrights
+
+All Rights Reserved Maanv Group | Developed by [Hemant Karekar](https://github.com/HemantKarekar)
